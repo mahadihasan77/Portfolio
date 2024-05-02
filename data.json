@@ -1,0 +1,108 @@
+{
+    "name": "Mahadi Hasan",
+    "email": "mahadi15-14752@diu.edu.bd",
+    "subtitles": [
+        "Flutter Developer",
+        "Technical Writer",
+        "UI/UX Designer"
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
+    "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/profile.php?id=100009245083243"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/mahadi_hasan_shanu/"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/Mahadi_Hasan77"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/checkpoint/lg/login-submit"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/mahadihasan77"
+        }
+       
+    ],
+    "aboutMeHeadline": "I'm Mahadi Hasan Shnau, a Flutter developer, Technical Writer and UI/UX Designer.",
+    "aboueMeDetails": "I'm a Final Year Computer Science and Engineering student enrolled in Daffodil International University, Bangladesh.",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "Python",
+        "Java",
+        "C++",
+        "Flask"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+        {
+            "icon": "assets/services/rapid.png",
+            "name": "Rapid Prototyping",
+            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
+        },
+        {
+            "icon": "assets/services/blog.png",
+            "name": "Technical Blog Writing",
+            "description": "Technical Blog writing\n- Medium blogs\n- Soothing header images\n- SEO friendly\n- Researched topics and more..!"
+        },
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "+880 1311660856"
+    },
+    "projects": [
+        {
+            "title": "TechWave",
+            "iconUrl": "https://drive.google.com/file/d/1EohcZdd5mg5dqHQIn24k_G0dpqQTFYwV/view?usp=sharing",
+            "bannerUrl": "assets/projects/gofortravel.png",
+            "description": "Tech Wave is a technology blog site which is a leading source of breaking mobile tech news, and it is intended for tech novices and experts alike."
+        },
+        {
+            "title": "Hello_Dr",
+            "iconUrl": "https://drive.google.com/file/d/1nr1FHUkACm5cg2MpXKNftUeKw888NcJt/view?usp=sharing",
+            "bannerUrl": "assets/projects/calculatorb.png",
+            "description": "A platform where technology meets healthcare! Hello Doctor promises more convenient and easy access to online healthcare services."
+        },
+        {
+            "title": "Rideon",
+            "iconUrl": "https://drive.google.com/file/d/1jpkSQyGZP5EWPCIfRz-dU9TARXHN2P5o/view?usp=sharing",
+            "bannerUrl": "assets/projects/rideon.png",
+            "description": "Discover flexible car rentals spanning from one month to one year on our platform, offering convenience and freedom for your extended mobility needs."
+        }
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Dhaka, Bangladesh"
+        },
+        {
+            "param": "phone",
+            "value": "+880 1311660856"
+        },
+        {
+            "param": "email",
+            "value": "mahadi15-14752@diu.edu.bd"
+        }
+    ]
+}
